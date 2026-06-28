@@ -1,0 +1,12 @@
+/* Minimal global reset. The example page uses inline styles; style your Gantt
+   however you prefer (CSS modules, Tailwind, plain CSS -- your call). */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+  color: #18241b;
+  background: #eef3ea;
+}
